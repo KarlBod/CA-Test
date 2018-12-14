@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.01" name="CA- Preview 40k" indexUrl="https://www.dropbox.com/s/byvh3pk98nc0sxb/index.bsi?dl=0" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.01" name="CA- Preview 40k" indexUrl="https://github.com/KarlBod/CA-Test/raw/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <repositoryUrls/>
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer 40,000 8th Edition.gstz" dataType="gamesystem" dataId="28ec-711c-d87f-3aeb" dataName="CA-Preview" dataBattleScribeVersion="2.01" dataRevision="61"/>
-    <dataIndexEntry filePath="Aeldari - Drukhari.catz" dataType="catalogue" dataId="e0a4-2172-4397-e39a" dataName="Aeldari - Drukhari" dataBattleScribeVersion="2.01" dataRevision="35"/>
-    <dataIndexEntry filePath="Imperium - Deathwatch.catz" dataType="catalogue" dataId="203b-f8dd-2a64-2676" dataName="Imperium - Deathwatch" dataBattleScribeVersion="2.01" dataRevision="43"/>
-    <dataIndexEntry filePath="Imperium - Astra Militarum.catz" dataType="catalogue" dataId="53e9d88f-7463-8c27-fe67-e1a0d1ed0287" dataName="Imperium - Astra Militarum" dataBattleScribeVersion="2.01" dataRevision="149"/>
-    <dataIndexEntry filePath="Imperium - Elucidian Starstriders.catz" dataType="catalogue" dataId="b619-ccba-8c99-4699" dataName="Imperium - Elucidian Starstriders" dataBattleScribeVersion="2.01" dataRevision="1"/>
-    <dataIndexEntry filePath="Imperium - Sisters of Silence.catz" dataType="catalogue" dataId="a008-1eeb-8c4e-96b7" dataName="Imperium - Sisters of Silence" dataBattleScribeVersion="2.01" dataRevision="4"/>
-    <dataIndexEntry filePath="Aeldari - Ynnari.catz" dataType="catalogue" dataId="2f0e-dd91-7676-722d" dataName="Aeldari - Ynnari" dataBattleScribeVersion="2.01" dataRevision="33"/>
-    <dataIndexEntry filePath="Chaos - Questor Traitoris.catz" dataType="catalogue" dataId="5d84-5102-f22c-14d4" dataName="Chaos - Questor Traitoris" dataBattleScribeVersion="2.01" dataRevision="10"/>
-    <dataIndexEntry filePath="Imperium - FW Elysians.catz" dataType="catalogue" dataId="62ed-66a0-988c-e34e" dataName="Imperium - FW Elysians" dataBattleScribeVersion="2.01" dataRevision="44"/>
-    <dataIndexEntry filePath="Aeldari - Craftworlds.catz" dataType="catalogue" dataId="30b2-6f64-b85e-b4dc" dataName="Aeldari - Craftworlds" dataBattleScribeVersion="2.01" dataRevision="52"/>
-    <dataIndexEntry filePath="Chaos - Thousand Sons.catz" dataType="catalogue" dataId="c553-15f3-3890-be39" dataName="Chaos - Thousand Sons" dataBattleScribeVersion="2.01" dataRevision="44"/>
-    <dataIndexEntry filePath="Imperium - Adeptus Mechanicus.catz" dataType="catalogue" dataId="ebe8-544e-1fe8-fcde" dataName="Imperium - Adeptus Mechanicus" dataBattleScribeVersion="2.01" dataRevision="44"/>
-    <dataIndexEntry filePath="Imperium - Adeptus Custodes.catz" dataType="catalogue" dataId="0fb8-6813-9c29-a03d" dataName="Imperium - Adeptus Custodes" dataBattleScribeVersion="2.01" dataRevision="17"/>
-    <dataIndexEntry filePath="Imperium - Dark Angels.catz" dataType="catalogue" dataId="b8fe-8d38-37ec-90e8" dataName="Imperium - Dark Angels" dataBattleScribeVersion="2.01" dataRevision="75"/>
-    <dataIndexEntry filePath="Imperium - Grey Knights.catz" dataType="catalogue" dataId="0cc2-3545-6762-a3f7" dataName="Imperium - Grey Knights" dataBattleScribeVersion="2.01" dataRevision="24"/>
-    <dataIndexEntry filePath="Imperium - Space Wolves.catz" dataType="catalogue" dataId="24b6-2b46-0063-2867" dataName="Imperium - Space Wolves" dataBattleScribeVersion="2.01" dataRevision="58"/>
-    <dataIndexEntry filePath="Imperium - Blackstone Fortress.catz" dataType="catalogue" dataId="7472-4b9e-c2fe-e071" dataName="Imperium - Blackstone Fortress" dataBattleScribeVersion="2.01" dataRevision="1"/>
-    <dataIndexEntry filePath="Imperium - Officio Assassinorum.catz" dataType="catalogue" dataId="f731-6aa6-c141-8937" dataName="Imperium - Officio Assassinorum" dataBattleScribeVersion="2.01" dataRevision="4"/>
-    <dataIndexEntry filePath="Chaos - Titanicus Traitoris.catz" dataType="catalogue" dataId="8c3d-93c3-7a7a-5a11" dataName="Chaos - Titanicus Traitoris" dataBattleScribeVersion="2.01" dataRevision="3"/>
-    <dataIndexEntry filePath="Imperium - Adeptus Ministorum.catz" dataType="catalogue" dataId="d124-b283-2ff7-beae" dataName="Imperium - Adeptus Ministorum" dataBattleScribeVersion="2.01" dataRevision="36"/>
     <dataIndexEntry filePath="Imperium - Legion of the Damned.catz" dataType="catalogue" dataId="d360-802a-45b3-4f4a" dataName="Imperium - Legion of the Damned" dataBattleScribeVersion="2.01" dataRevision="6"/>
-    <dataIndexEntry filePath="Chaos - Gellerpox Infected.catz" dataType="catalogue" dataId="7fe3-1c65-72de-bc5d" dataName="Chaos - Gellerpox Infected" dataBattleScribeVersion="2.01" dataRevision="1"/>
-    <dataIndexEntry filePath="Aeldari - Harlequins.catz" dataType="catalogue" dataId="7d24-b92f-c5d5-3bf0" dataName="Aeldari - Harlequins" dataBattleScribeVersion="2.01" dataRevision="16"/>
-    <dataIndexEntry filePath="Chaos - Daemons.catz" dataType="catalogue" dataId="422a-a40e-3f7c-e8b3" dataName="Chaos - Daemons" dataBattleScribeVersion="2.01" dataRevision="41"/>
-    <dataIndexEntry filePath="Chaos - Servants of the Abyss.catz" dataType="catalogue" dataId="9837-3435-7452-d14b" dataName="Chaos - Servants of the Abyss" dataBattleScribeVersion="2.01" dataRevision="1"/>
-    <dataIndexEntry filePath="Imperium - Blood Angels.catz" dataType="catalogue" dataId="eb0f-c144-a282-8bdc" dataName="Imperium - Blood Angels" dataBattleScribeVersion="2.01" dataRevision="48"/>
-    <dataIndexEntry filePath="Imperium - Adeptus Titanicus.catz" dataType="catalogue" dataId="f944-98a5-b73d-f132" dataName="Imperium - Adeptus Titanicus" dataBattleScribeVersion="2.01" dataRevision="7"/>
-    <dataIndexEntry filePath="Imperium - FW Adeptus Astartes.catz" dataType="catalogue" dataId="dab7-e076-dd5e-d8aa" dataName="Imperium - FW Adeptus Astartes" dataBattleScribeVersion="2.01" dataRevision="32"/>
-    <dataIndexEntry filePath="Chaos - Chaos Space Marines.catz" dataType="catalogue" dataId="cb54-c035-5759-7697" dataName="Chaos - Chaos Space Marines" dataBattleScribeVersion="2.01" dataRevision="60"/>
-    <dataIndexEntry filePath="Chaos - FW Heretic Astartes.catz" dataType="catalogue" dataId="2128-f196-8f1c-b352" dataName="Chaos - FW Heretic Astartes" dataBattleScribeVersion="2.01" dataRevision="24"/>
-    <dataIndexEntry filePath="Imperium - Space Marines.catz" dataType="catalogue" dataId="846d-3c14-21fc-369f" dataName="Imperium - Space Marines" dataBattleScribeVersion="2.01" dataRevision="65"/>
-    <dataIndexEntry filePath="Aeldari - FW Corsairs.catz" dataType="catalogue" dataId="c1e4-2118-3a74-c9f0" dataName="Aeldari - FW Corsairs" dataBattleScribeVersion="2.01" dataRevision="10"/>
-    <dataIndexEntry filePath="Necrons.catz" dataType="catalogue" dataId="61c6-c8c5-a304-ff5f" dataName="Necrons" dataBattleScribeVersion="2.01" dataRevision="38"/>
+    <dataIndexEntry filePath="Imperium - Blackstone Fortress.catz" dataType="catalogue" dataId="7472-4b9e-c2fe-e071" dataName="Imperium - Blackstone Fortress" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Chaos - Titanicus Traitoris.catz" dataType="catalogue" dataId="8c3d-93c3-7a7a-5a11" dataName="Chaos - Titanicus Traitoris" dataBattleScribeVersion="2.01" dataRevision="3"/>
+    <dataIndexEntry filePath="Imperium - Elucidian Starstriders.catz" dataType="catalogue" dataId="b619-ccba-8c99-4699" dataName="Imperium - Elucidian Starstriders" dataBattleScribeVersion="2.01" dataRevision="1"/>
     <dataIndexEntry filePath="Tyranids.catz" dataType="catalogue" dataId="7150-5917-ae80-68c5" dataName="Tyranids" dataBattleScribeVersion="2.01" dataRevision="42"/>
+    <dataIndexEntry filePath="Imperium - Adeptus Ministorum.catz" dataType="catalogue" dataId="d124-b283-2ff7-beae" dataName="Imperium - Adeptus Ministorum" dataBattleScribeVersion="2.01" dataRevision="36"/>
+    <dataIndexEntry filePath="Imperium - Space Marines.catz" dataType="catalogue" dataId="846d-3c14-21fc-369f" dataName="Imperium - Space Marines" dataBattleScribeVersion="2.01" dataRevision="65"/>
+    <dataIndexEntry filePath="Imperium - Deathwatch.catz" dataType="catalogue" dataId="203b-f8dd-2a64-2676" dataName="Imperium - Deathwatch" dataBattleScribeVersion="2.01" dataRevision="43"/>
+    <dataIndexEntry filePath="Aeldari - Ynnari.catz" dataType="catalogue" dataId="2f0e-dd91-7676-722d" dataName="Aeldari - Ynnari" dataBattleScribeVersion="2.01" dataRevision="33"/>
+    <dataIndexEntry filePath="Imperium - Blood Angels.catz" dataType="catalogue" dataId="eb0f-c144-a282-8bdc" dataName="Imperium - Blood Angels" dataBattleScribeVersion="2.01" dataRevision="48"/>
+    <dataIndexEntry filePath="Chaos - Servants of the Abyss.catz" dataType="catalogue" dataId="9837-3435-7452-d14b" dataName="Chaos - Servants of the Abyss" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Imperium - Adeptus Titanicus.catz" dataType="catalogue" dataId="f944-98a5-b73d-f132" dataName="Imperium - Adeptus Titanicus" dataBattleScribeVersion="2.01" dataRevision="7"/>
+    <dataIndexEntry filePath="Chaos - Thousand Sons.catz" dataType="catalogue" dataId="c553-15f3-3890-be39" dataName="Chaos - Thousand Sons" dataBattleScribeVersion="2.01" dataRevision="44"/>
+    <dataIndexEntry filePath="Aeldari - Harlequins.catz" dataType="catalogue" dataId="7d24-b92f-c5d5-3bf0" dataName="Aeldari - Harlequins" dataBattleScribeVersion="2.01" dataRevision="16"/>
+    <dataIndexEntry filePath="Imperium - Officio Assassinorum.catz" dataType="catalogue" dataId="f731-6aa6-c141-8937" dataName="Imperium - Officio Assassinorum" dataBattleScribeVersion="2.01" dataRevision="4"/>
+    <dataIndexEntry filePath="Aeldari - FW Corsairs.catz" dataType="catalogue" dataId="c1e4-2118-3a74-c9f0" dataName="Aeldari - FW Corsairs" dataBattleScribeVersion="2.01" dataRevision="10"/>
+    <dataIndexEntry filePath="Imperium - Grey Knights.catz" dataType="catalogue" dataId="0cc2-3545-6762-a3f7" dataName="Imperium - Grey Knights" dataBattleScribeVersion="2.01" dataRevision="24"/>
     <dataIndexEntry filePath="Chaos - Dark Mechanicum.catz" dataType="catalogue" dataId="39fd-b7cd-5074-6d2e" dataName="Chaos - Dark Mechanicus" dataBattleScribeVersion="2.01" dataRevision="2"/>
-    <dataIndexEntry filePath="Imperium - FW Death Korps of Krieg.catz" dataType="catalogue" dataId="91ff-e116-e0a5-e883" dataName="Imperium - FW Death Korps of Krieg" dataBattleScribeVersion="2.01" dataRevision="73"/>
+    <dataIndexEntry filePath="Aeldari - Craftworlds.catz" dataType="catalogue" dataId="30b2-6f64-b85e-b4dc" dataName="Aeldari - Craftworlds" dataBattleScribeVersion="2.01" dataRevision="52"/>
     <dataIndexEntry filePath="Imperium - Inquisition.catz" dataType="catalogue" dataId="e373-3c0a-1185-46ea" dataName="Imperium - Inquisition" dataBattleScribeVersion="2.01" dataRevision="19"/>
-    <dataIndexEntry filePath="Tyranids - Genestealer Cults.catz" dataType="catalogue" dataId="83b2-e602-931a-fea1" dataName="Tyranids - Genestealer Cults" dataBattleScribeVersion="2.01" dataRevision="24"/>
+    <dataIndexEntry filePath="Chaos - Questor Traitoris.catz" dataType="catalogue" dataId="5d84-5102-f22c-14d4" dataName="Chaos - Questor Traitoris" dataBattleScribeVersion="2.01" dataRevision="10"/>
+    <dataIndexEntry filePath="Imperium - Space Wolves.catz" dataType="catalogue" dataId="24b6-2b46-0063-2867" dataName="Imperium - Space Wolves" dataBattleScribeVersion="2.01" dataRevision="58"/>
+    <dataIndexEntry filePath="Chaos - Gellerpox Infected.catz" dataType="catalogue" dataId="7fe3-1c65-72de-bc5d" dataName="Chaos - Gellerpox Infected" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Imperium - Dark Angels.catz" dataType="catalogue" dataId="b8fe-8d38-37ec-90e8" dataName="Imperium - Dark Angels" dataBattleScribeVersion="2.01" dataRevision="75"/>
+    <dataIndexEntry filePath="Imperium - Sisters of Silence.catz" dataType="catalogue" dataId="a008-1eeb-8c4e-96b7" dataName="Imperium - Sisters of Silence" dataBattleScribeVersion="2.01" dataRevision="4"/>
+    <dataIndexEntry filePath="Imperium - Questor Imperialis.catz" dataType="catalogue" dataId="82cd-d24f-9f22-11f3" dataName="Imperium - Imperial Knights" dataBattleScribeVersion="2.01" dataRevision="27"/>
+    <dataIndexEntry filePath="Imperium - FW Death Korps of Krieg.catz" dataType="catalogue" dataId="91ff-e116-e0a5-e883" dataName="Imperium - FW Death Korps of Krieg" dataBattleScribeVersion="2.01" dataRevision="73"/>
+    <dataIndexEntry filePath="Aeldari - Drukhari.catz" dataType="catalogue" dataId="e0a4-2172-4397-e39a" dataName="Aeldari - Drukhari" dataBattleScribeVersion="2.01" dataRevision="35"/>
+    <dataIndexEntry filePath="Imperium - FW Adeptus Astartes.catz" dataType="catalogue" dataId="dab7-e076-dd5e-d8aa" dataName="Imperium - FW Adeptus Astartes" dataBattleScribeVersion="2.01" dataRevision="32"/>
     <dataIndexEntry filePath="Chaos - FW Renegade and Heretics.catz" dataType="catalogue" dataId="2ebb-7865-3983-640d" dataName="Chaos - Renegades &amp; Heretics" dataBattleScribeVersion="2.01" dataRevision="27"/>
     <dataIndexEntry filePath="Imperium - Adeptus Astra Telepathica.catz" dataType="catalogue" dataId="104e-06dd-4514-8e80" dataName="Imperium - Adeptus Astra Telepathica" dataBattleScribeVersion="2.01" dataRevision="6"/>
-    <dataIndexEntry filePath="Imperium - Questor Imperialis.catz" dataType="catalogue" dataId="82cd-d24f-9f22-11f3" dataName="Imperium - Imperial Knights" dataBattleScribeVersion="2.01" dataRevision="27"/>
+    <dataIndexEntry filePath="Chaos - Daemons.catz" dataType="catalogue" dataId="422a-a40e-3f7c-e8b3" dataName="Chaos - Daemons" dataBattleScribeVersion="2.01" dataRevision="41"/>
     <dataIndexEntry filePath="T&apos;au Empire.catz" dataType="catalogue" dataId="c0bb-c0cd-a715-99c6" dataName="T&apos;au Empire" dataBattleScribeVersion="2.01" dataRevision="35"/>
-    <dataIndexEntry filePath="Orks.catz" dataType="catalogue" dataId="11b5-77b9-31bf-7b74" dataName="Orks" dataBattleScribeVersion="2.01" dataRevision="36"/>
+    <dataIndexEntry filePath="Necrons.catz" dataType="catalogue" dataId="61c6-c8c5-a304-ff5f" dataName="Necrons" dataBattleScribeVersion="2.01" dataRevision="38"/>
     <dataIndexEntry filePath="Chaos - Death Guard.catz" dataType="catalogue" dataId="ce57-cc1c-37cb-cb71" dataName="Chaos - Death Guard" dataBattleScribeVersion="2.01" dataRevision="47"/>
+    <dataIndexEntry filePath="Orks.catz" dataType="catalogue" dataId="11b5-77b9-31bf-7b74" dataName="Orks" dataBattleScribeVersion="2.01" dataRevision="36"/>
+    <dataIndexEntry filePath="Chaos - Chaos Space Marines.catz" dataType="catalogue" dataId="cb54-c035-5759-7697" dataName="Chaos - Chaos Space Marines" dataBattleScribeVersion="2.01" dataRevision="60"/>
+    <dataIndexEntry filePath="Tyranids - Genestealer Cults.catz" dataType="catalogue" dataId="83b2-e602-931a-fea1" dataName="Tyranids - Genestealer Cults" dataBattleScribeVersion="2.01" dataRevision="24"/>
+    <dataIndexEntry filePath="Imperium - Astra Militarum.catz" dataType="catalogue" dataId="53e9d88f-7463-8c27-fe67-e1a0d1ed0287" dataName="Imperium - Astra Militarum" dataBattleScribeVersion="2.01" dataRevision="149"/>
+    <dataIndexEntry filePath="Imperium - Adeptus Custodes.catz" dataType="catalogue" dataId="0fb8-6813-9c29-a03d" dataName="Imperium - Adeptus Custodes" dataBattleScribeVersion="2.01" dataRevision="17"/>
+    <dataIndexEntry filePath="Imperium - Adeptus Mechanicus.catz" dataType="catalogue" dataId="ebe8-544e-1fe8-fcde" dataName="Imperium - Adeptus Mechanicus" dataBattleScribeVersion="2.01" dataRevision="44"/>
+    <dataIndexEntry filePath="Chaos - FW Heretic Astartes.catz" dataType="catalogue" dataId="2128-f196-8f1c-b352" dataName="Chaos - FW Heretic Astartes" dataBattleScribeVersion="2.01" dataRevision="24"/>
+    <dataIndexEntry filePath="Imperium - FW Elysians.catz" dataType="catalogue" dataId="62ed-66a0-988c-e34e" dataName="Imperium - FW Elysians" dataBattleScribeVersion="2.01" dataRevision="44"/>
   </dataIndexEntries>
 </dataIndex>
